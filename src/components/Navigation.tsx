@@ -69,7 +69,7 @@ export default function Navigation() {
               </a>
             ))}
             <a
-              href="/public/RUDRA_Dave_Software_Engineer.pdf"
+              href="/RUDRA_Dave_Software_Engineer.pdf"
               target="_blank" rel="noopener noreferrer"
               className="flex items-center gap-2 px-4 py-2 glass glass-hover rounded-lg text-sm font-medium transition-all duration-200"
             >
